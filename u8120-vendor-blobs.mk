@@ -32,6 +32,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8120/proprietary/lib/libaudio.so:obj/lib/libaudio.so \
     vendor/huawei/u8120/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/huawei/u8120/proprietary/lib/libaudioeq.so:obj/lib/libaudioeq.so \
+    vendor/huawei/u8120/proprietary/lib/libcamera.so:system/lib/libcamera.so \
+    vendor/huawei/u8120/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
     vendor/huawei/u8120/proprietary/lib/libOmxCore.so:system/lib/libOmxCore.so \
     vendor/huawei/u8120/proprietary/lib/libOmxCore.so:obj/lib/libOmxCore.so \
     vendor/huawei/u8120/proprietary/lib/libOmxH264Dec.so:system/lib/libOmxH264Dec.so \
